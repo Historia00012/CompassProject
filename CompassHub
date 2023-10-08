@@ -2,5 +2,6 @@ if game.PlaceId == 14433762945 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/Historia00012/CompassProject/main/ACS"))()
 elseif game.PlaceId == 8534845015 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/Historia00012/Sakura/main/SakuraStabd"))()
-
+elseif game.gameId == 3825332406 then
+ loadstring(game:HttpGet(" https://raw.githubusercontent.com/Historia00012/CompassProject/main/ElementalDungeon"))()
   end
